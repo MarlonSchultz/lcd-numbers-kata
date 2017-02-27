@@ -1,0 +1,4 @@
+suites:
+    main_suite:
+        namespace: Bamiz\LcdNumbersKata
+        psr4_prefix: Bamiz\LcdNumbersKata\
